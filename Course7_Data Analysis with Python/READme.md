@@ -1,4 +1,4 @@
-Final Assigment done on House sales in King country data set where we have done the following steps:
+Final Assigment done on House sales in King county data set where we have done the following steps:
 
 Importing Datasets
 
