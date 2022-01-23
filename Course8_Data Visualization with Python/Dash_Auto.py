@@ -18,7 +18,6 @@ auto_data =  pd.read_csv('automobileEDA.csv',
                             )
 
 #Layout Section of Dash
-
 app.layout = html.Div(children=[ html.H1('Car Automobile Components', 
                                 style={'textAlign': 'center', 'color': '#503D36',
                                 'font-size': 24}),
@@ -37,7 +36,7 @@ app.layout = html.Div(children=[ html.H1('Car Automobile Components',
         value='rwd'
         ),] 
                             
-                     ),
+        ),
 
 
                     #TASK 3C
